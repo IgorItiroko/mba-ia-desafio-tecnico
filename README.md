@@ -14,10 +14,10 @@ O desafio foi desenvolvido seguindo as diretrizes fornecidas utilizando da api g
 - PDF_PATH : Localização do PDF a ser 'ingerido' pelo PGVector.
 
 # Passos para execução:
-1 - Inicialize o PGVector com `docker compose up`
-2 - Realize a ingestão dos documentos com `python .\src\ingest.py`
-3 - Execute o chat com `python .\src\chat.py`
-4 - Faça suas perguntas a respeito do documento e escreva 'sair' para encerrar o chat.
+1. Inicialize o PGVector com `docker compose up`
+2. Realize a ingestão dos documentos com `python .\src\ingest.py`
+3. Execute o chat com `python .\src\chat.py`
+4. Faça suas perguntas a respeito do documento e escreva 'sair' para encerrar o chat.
 
 # Testes realizados 
 
